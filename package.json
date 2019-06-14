@@ -1,7 +1,7 @@
 {
   "name": "mws-ext",
   "version": "1.0.0",
-  "description": "Marketplace Web Service MWS-EXT",
+  "description": "Amazon Marketplace Web Service (Amazon MWS) MWS-EXT SDK",
   "license": "MIT",
   "scripts": {},
   "dependencies": {
